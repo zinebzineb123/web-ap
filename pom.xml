@@ -74,7 +74,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-war-plugin</artifactId>
-				<version>3.2.0</version>
+				<version>3.6.3</version>
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 					<outputDirectory>/home/katarzyna/workspace/downloads/apache-tomcat-8.5.24/webapps</outputDirectory>
