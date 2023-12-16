@@ -9,7 +9,7 @@ Simple Twitter application using Maven, Spring MVC, Spring Data, Hibernate, MySQ
 - Adding tweets as logged user
 - Commenting on tweets
 - Sending and receiving messages from other users
-
+--
 ## Authors
 
 Katarzyna Machowina - [machowina](https://github.com/machowina)
